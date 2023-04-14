@@ -1,0 +1,8 @@
+D:\C#\Day 6\palindrome\palindrome\bin\Debug\palindrome.exe.config
+D:\C#\Day 6\palindrome\palindrome\bin\Debug\palindrome.exe
+D:\C#\Day 6\palindrome\palindrome\bin\Debug\palindrome.pdb
+D:\C#\Day 6\palindrome\palindrome\obj\Debug\palindrome.csproj.AssemblyReference.cache
+D:\C#\Day 6\palindrome\palindrome\obj\Debug\palindrome.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 6\palindrome\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+D:\C#\Day 6\palindrome\palindrome\obj\Debug\palindrome.exe
+D:\C#\Day 6\palindrome\palindrome\obj\Debug\palindrome.pdb

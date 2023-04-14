@@ -1,0 +1,8 @@
+D:\C#\Day 6\Array Multiplication\Array Multiplication\bin\Debug\Array Multiplication.exe.config
+D:\C#\Day 6\Array Multiplication\Array Multiplication\bin\Debug\Array Multiplication.exe
+D:\C#\Day 6\Array Multiplication\Array Multiplication\bin\Debug\Array Multiplication.pdb
+D:\C#\Day 6\Array Multiplication\Array Multiplication\obj\Debug\Array Multiplication.csproj.AssemblyReference.cache
+D:\C#\Day 6\Array Multiplication\Array Multiplication\obj\Debug\Array Multiplication.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 6\Array Multiplication\Array Multiplication\obj\Debug\Array Multiplication.csproj.CoreCompileInputs.cache
+D:\C#\Day 6\Array Multiplication\Array Multiplication\obj\Debug\Array Multiplication.exe
+D:\C#\Day 6\Array Multiplication\Array Multiplication\obj\Debug\Array Multiplication.pdb
