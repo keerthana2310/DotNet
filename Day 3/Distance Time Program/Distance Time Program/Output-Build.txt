@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Distance Time Program, Configuration: Debug Any CPU ------
+1>  Distance Time Program -> D:\C#\Day 3\Distance Time Program\Distance Time Program\bin\Debug\Distance Time Program.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 3:53 PM and took 02.172 seconds ==========
