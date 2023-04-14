@@ -1,0 +1,8 @@
+D:\C#\Day 4\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.AssemblyReference.cache
+D:\C#\Day 4\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 4\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.CoreCompileInputs.cache
+D:\C#\Day 4\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+D:\C#\Day 4\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+D:\C#\Day 4\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+D:\C#\Day 4\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+D:\C#\Day 4\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb

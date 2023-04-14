@@ -1,0 +1,8 @@
+D:\C#\Day 4\Input and print\Input and print\bin\Debug\Input and print.exe.config
+D:\C#\Day 4\Input and print\Input and print\bin\Debug\Input and print.exe
+D:\C#\Day 4\Input and print\Input and print\bin\Debug\Input and print.pdb
+D:\C#\Day 4\Input and print\Input and print\obj\Debug\Input and print.csproj.AssemblyReference.cache
+D:\C#\Day 4\Input and print\Input and print\obj\Debug\Input and print.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 4\Input and print\Input and print\obj\Debug\Input and print.csproj.CoreCompileInputs.cache
+D:\C#\Day 4\Input and print\Input and print\obj\Debug\Input and print.exe
+D:\C#\Day 4\Input and print\Input and print\obj\Debug\Input and print.pdb

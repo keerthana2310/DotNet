@@ -1,0 +1,8 @@
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\bin\Debug\pgm 12 odd no.exe.config
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\bin\Debug\pgm 12 odd no.exe
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\bin\Debug\pgm 12 odd no.pdb
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\obj\Debug\pgm 12 odd no.csproj.AssemblyReference.cache
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\obj\Debug\pgm 12 odd no.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\obj\Debug\pgm 12 odd no.csproj.CoreCompileInputs.cache
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\obj\Debug\pgm 12 odd no.exe
+D:\C#\Day 4\pgm 12 odd no\pgm 12 odd no\obj\Debug\pgm 12 odd no.pdb

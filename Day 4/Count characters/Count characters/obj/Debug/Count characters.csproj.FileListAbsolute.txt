@@ -1,0 +1,8 @@
+D:\C#\Day 4\Count characters\Count characters\bin\Debug\Count characters.exe.config
+D:\C#\Day 4\Count characters\Count characters\bin\Debug\Count characters.exe
+D:\C#\Day 4\Count characters\Count characters\bin\Debug\Count characters.pdb
+D:\C#\Day 4\Count characters\Count characters\obj\Debug\Count characters.csproj.AssemblyReference.cache
+D:\C#\Day 4\Count characters\Count characters\obj\Debug\Count characters.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 4\Count characters\Count characters\obj\Debug\Count characters.csproj.CoreCompileInputs.cache
+D:\C#\Day 4\Count characters\Count characters\obj\Debug\Count characters.exe
+D:\C#\Day 4\Count characters\Count characters\obj\Debug\Count characters.pdb
