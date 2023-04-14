@@ -1,0 +1,8 @@
+D:\C#\Day 5\pgm pattern\pgm pattern\bin\Debug\pgm pattern.exe.config
+D:\C#\Day 5\pgm pattern\pgm pattern\bin\Debug\pgm pattern.exe
+D:\C#\Day 5\pgm pattern\pgm pattern\bin\Debug\pgm pattern.pdb
+D:\C#\Day 5\pgm pattern\pgm pattern\obj\Debug\pgm pattern.csproj.AssemblyReference.cache
+D:\C#\Day 5\pgm pattern\pgm pattern\obj\Debug\pgm pattern.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 5\pgm pattern\pgm pattern\obj\Debug\pgm pattern.csproj.CoreCompileInputs.cache
+D:\C#\Day 5\pgm pattern\pgm pattern\obj\Debug\pgm pattern.exe
+D:\C#\Day 5\pgm pattern\pgm pattern\obj\Debug\pgm pattern.pdb
