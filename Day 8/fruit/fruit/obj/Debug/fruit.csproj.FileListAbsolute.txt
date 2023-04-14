@@ -1,0 +1,8 @@
+D:\C#\Day 8\fruit\fruit\obj\Debug\fruit.csproj.AssemblyReference.cache
+D:\C#\Day 8\fruit\fruit\obj\Debug\fruit.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 8\fruit\fruit\obj\Debug\fruit.csproj.CoreCompileInputs.cache
+D:\C#\Day 8\fruit\fruit\bin\Debug\fruit.exe.config
+D:\C#\Day 8\fruit\fruit\bin\Debug\fruit.exe
+D:\C#\Day 8\fruit\fruit\bin\Debug\fruit.pdb
+D:\C#\Day 8\fruit\fruit\obj\Debug\fruit.exe
+D:\C#\Day 8\fruit\fruit\obj\Debug\fruit.pdb

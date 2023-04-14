@@ -1,0 +1,8 @@
+D:\C#\Day 8\Telephone\Telephone\bin\Debug\Telephone.exe.config
+D:\C#\Day 8\Telephone\Telephone\bin\Debug\Telephone.exe
+D:\C#\Day 8\Telephone\Telephone\bin\Debug\Telephone.pdb
+D:\C#\Day 8\Telephone\Telephone\obj\Debug\Telephone.csproj.AssemblyReference.cache
+D:\C#\Day 8\Telephone\Telephone\obj\Debug\Telephone.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 8\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+D:\C#\Day 8\Telephone\Telephone\obj\Debug\Telephone.exe
+D:\C#\Day 8\Telephone\Telephone\obj\Debug\Telephone.pdb
