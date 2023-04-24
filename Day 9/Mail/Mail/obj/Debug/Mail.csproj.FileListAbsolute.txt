@@ -1,8 +1,0 @@
-D:\C#\Day 9\Mail\Mail\bin\Debug\Mail.exe.config
-D:\C#\Day 9\Mail\Mail\bin\Debug\Mail.exe
-D:\C#\Day 9\Mail\Mail\bin\Debug\Mail.pdb
-D:\C#\Day 9\Mail\Mail\obj\Debug\Mail.csproj.AssemblyReference.cache
-D:\C#\Day 9\Mail\Mail\obj\Debug\Mail.csproj.SuggestedBindingRedirects.cache
-D:\C#\Day 9\Mail\Mail\obj\Debug\Mail.csproj.CoreCompileInputs.cache
-D:\C#\Day 9\Mail\Mail\obj\Debug\Mail.exe
-D:\C#\Day 9\Mail\Mail\obj\Debug\Mail.pdb
