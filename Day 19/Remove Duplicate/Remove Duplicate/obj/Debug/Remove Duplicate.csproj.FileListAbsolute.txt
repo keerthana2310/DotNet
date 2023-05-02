@@ -1,0 +1,8 @@
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\bin\Debug\Remove Duplicate.exe.config
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\bin\Debug\Remove Duplicate.exe
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\bin\Debug\Remove Duplicate.pdb
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\obj\Debug\Remove Duplicate.csproj.AssemblyReference.cache
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\obj\Debug\Remove Duplicate.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\obj\Debug\Remove Duplicate.csproj.CoreCompileInputs.cache
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\obj\Debug\Remove Duplicate.exe
+D:\C#\Day 19\Remove Duplicate\Remove Duplicate\obj\Debug\Remove Duplicate.pdb

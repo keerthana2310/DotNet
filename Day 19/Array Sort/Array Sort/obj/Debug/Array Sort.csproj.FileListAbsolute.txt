@@ -1,0 +1,8 @@
+D:\C#\Day 19\Array Sort\Array Sort\bin\Debug\Array Sort.exe.config
+D:\C#\Day 19\Array Sort\Array Sort\bin\Debug\Array Sort.exe
+D:\C#\Day 19\Array Sort\Array Sort\bin\Debug\Array Sort.pdb
+D:\C#\Day 19\Array Sort\Array Sort\obj\Debug\Array Sort.csproj.AssemblyReference.cache
+D:\C#\Day 19\Array Sort\Array Sort\obj\Debug\Array Sort.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 19\Array Sort\Array Sort\obj\Debug\Array Sort.csproj.CoreCompileInputs.cache
+D:\C#\Day 19\Array Sort\Array Sort\obj\Debug\Array Sort.exe
+D:\C#\Day 19\Array Sort\Array Sort\obj\Debug\Array Sort.pdb

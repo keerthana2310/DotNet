@@ -1,0 +1,8 @@
+D:\C#\Day 19\comma seperated from array\comma seperated from array\bin\Debug\comma seperated from array.exe.config
+D:\C#\Day 19\comma seperated from array\comma seperated from array\bin\Debug\comma seperated from array.exe
+D:\C#\Day 19\comma seperated from array\comma seperated from array\bin\Debug\comma seperated from array.pdb
+D:\C#\Day 19\comma seperated from array\comma seperated from array\obj\Debug\comma seperated from array.csproj.AssemblyReference.cache
+D:\C#\Day 19\comma seperated from array\comma seperated from array\obj\Debug\comma seperated from array.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 19\comma seperated from array\comma seperated from array\obj\Debug\comma seperated from array.csproj.CoreCompileInputs.cache
+D:\C#\Day 19\comma seperated from array\comma seperated from array\obj\Debug\comma seperated from array.exe
+D:\C#\Day 19\comma seperated from array\comma seperated from array\obj\Debug\comma seperated from array.pdb
