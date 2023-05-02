@@ -1,0 +1,8 @@
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\bin\Debug\Repalce 0 with 5.exe.config
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\bin\Debug\Repalce 0 with 5.exe
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\bin\Debug\Repalce 0 with 5.pdb
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\obj\Debug\Repalce 0 with 5.csproj.AssemblyReference.cache
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\obj\Debug\Repalce 0 with 5.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\obj\Debug\Repalce 0 with 5.csproj.CoreCompileInputs.cache
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\obj\Debug\Repalce 0 with 5.exe
+D:\C#\Day 18\Repalce 0 with 5\Repalce 0 with 5\obj\Debug\Repalce 0 with 5.pdb

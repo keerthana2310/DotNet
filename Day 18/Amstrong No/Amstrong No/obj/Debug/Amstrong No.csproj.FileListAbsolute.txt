@@ -1,0 +1,8 @@
+D:\C#\Day 18\Amstrong No\Amstrong No\bin\Debug\Amstrong No.exe.config
+D:\C#\Day 18\Amstrong No\Amstrong No\bin\Debug\Amstrong No.exe
+D:\C#\Day 18\Amstrong No\Amstrong No\bin\Debug\Amstrong No.pdb
+D:\C#\Day 18\Amstrong No\Amstrong No\obj\Debug\Amstrong No.csproj.AssemblyReference.cache
+D:\C#\Day 18\Amstrong No\Amstrong No\obj\Debug\Amstrong No.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 18\Amstrong No\Amstrong No\obj\Debug\Amstrong No.csproj.CoreCompileInputs.cache
+D:\C#\Day 18\Amstrong No\Amstrong No\obj\Debug\Amstrong No.exe
+D:\C#\Day 18\Amstrong No\Amstrong No\obj\Debug\Amstrong No.pdb

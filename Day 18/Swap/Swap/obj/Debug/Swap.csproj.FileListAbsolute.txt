@@ -1,0 +1,8 @@
+D:\C#\Day 18\Swap\Swap\bin\Debug\Swap.exe.config
+D:\C#\Day 18\Swap\Swap\bin\Debug\Swap.exe
+D:\C#\Day 18\Swap\Swap\bin\Debug\Swap.pdb
+D:\C#\Day 18\Swap\Swap\obj\Debug\Swap.csproj.AssemblyReference.cache
+D:\C#\Day 18\Swap\Swap\obj\Debug\Swap.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 18\Swap\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+D:\C#\Day 18\Swap\Swap\obj\Debug\Swap.exe
+D:\C#\Day 18\Swap\Swap\obj\Debug\Swap.pdb

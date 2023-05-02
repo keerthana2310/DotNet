@@ -1,0 +1,6 @@
+CREATE TRIGGER employ on employee                 --here after insert row ,we need to insert values then select the employee teble the row will be inserted.
+AFTER INSERT
+AS
+SELECT 'ROW CREATED'
+select*from employee
+INSERT INTO employee values(7,'karthik',1200);
