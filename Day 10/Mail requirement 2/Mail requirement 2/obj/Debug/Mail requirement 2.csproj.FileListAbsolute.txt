@@ -1,0 +1,8 @@
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\obj\Debug\Mail requirement 2.csproj.AssemblyReference.cache
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\obj\Debug\Mail requirement 2.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\obj\Debug\Mail requirement 2.csproj.CoreCompileInputs.cache
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\bin\Debug\Mail requirement 2.exe.config
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\bin\Debug\Mail requirement 2.exe
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\bin\Debug\Mail requirement 2.pdb
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\obj\Debug\Mail requirement 2.exe
+D:\C#\Day 10\Mail requirement 2\Mail requirement 2\obj\Debug\Mail requirement 2.pdb

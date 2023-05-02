@@ -1,0 +1,8 @@
+D:\C#\Day 10\Index\Index\bin\Debug\Index.exe.config
+D:\C#\Day 10\Index\Index\bin\Debug\Index.exe
+D:\C#\Day 10\Index\Index\bin\Debug\Index.pdb
+D:\C#\Day 10\Index\Index\obj\Debug\Index.csproj.AssemblyReference.cache
+D:\C#\Day 10\Index\Index\obj\Debug\Index.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 10\Index\Index\obj\Debug\Index.csproj.CoreCompileInputs.cache
+D:\C#\Day 10\Index\Index\obj\Debug\Index.exe
+D:\C#\Day 10\Index\Index\obj\Debug\Index.pdb
