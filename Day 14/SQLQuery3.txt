@@ -1,0 +1,1 @@
+insert into Table_1 values(101,'keerthana');

@@ -1,0 +1,120 @@
+Create Table Persons(
+PersonID int,
+LastName varchar(225),
+FirstName varchar(255),
+Address varchar(255),
+City varchar(255)
+);
+insert into Persons values(101,'Keerthana','Manikandan','Kalabham','Ernakulam');
+select*from Persons;
+delete from Persons where Personid = 101;
+
+CREATE DATABASE db2;
+DROP DATABASE db2;
+drop table test;      (if we create a table test then to delete it use drop)
+drop table test1;
+
+CREATE TABLE student(
+studentID VARCHAR(10) NOT NULL,
+studentname varchar(50) NOT NULL,
+age INT NOT NULL,
+place varchar(100)
+PRIMARY KEY(studentid)
+
+);
+
+
+INSERT INTO student(studentid,studentname,age,place)
+values('s1','keerthana',22,'ernakulam');
+SELECT*FROM student;
+INSERT INTO student
+values
+('s2','vignesh',28,'palakkad'),
+('s3' ,'hari',27,'pathanamthitta'),
+('s4','divya',23,'ernakulam'),
+('s5','bala',23,'thrissur'),
+('s6','anu',29,'idukki');
+UPDATE student
+SET place='Kannur'
+Where STUDENTID ='s3';
+
+UPDATE student
+SET age=20
+WHERE studentname='bala';
+
+SELECT*FROM student
+CREATE TABLE student1 like student;
+INSERT INTO student1 SELECT*FROM student;
+
+select STUDENTID,STUDENTNAME FROM student;
+SELECT*FROM student
+WHERE place='Ernakulam'or age=27;
+ 
+ SELECT DISTINCT place FROM student;      (Ernakulam display only once)
+
+ SELECT*FROM student
+ ORDER BY STUDENTNAME ASC;
+ SELECT*FROM student
+ ORDER BY STUDENTNAME DESC;
+
+ SELECT *FROM student;
+ ALTER TABLE student
+ ADD contact VARCHAR(10) NULL ;
+
+ SELECT *FROM student;
+ ALTER TABLE student 
+ COLUMN contact TO student contact;
+
+ SELECT count(distinct place)from student;
+
+ UPDATE student
+ SET studentname='manu' 
+ WHERE studentid='s1';
+
+ SELECT max(age)
+ from student;
+ 
+ SELECT TOP 3*
+ FROM student;
+
+SELECT   age from student
+where age>23;
+
+
+
+SELECT *
+from student
+where studentname like '%a';
+SELECT place
+from student
+where place like 'e%';
+
+SELECT *FROM student
+where place like'__%lam';
+
+
+SELECT *FROM student
+where place like'[ept]%';
+SELECT *FROM student
+where place not like'[ept]%';
+select*from student
+where age between 20 and 23
+and place not in('ernakulam');
+
+CREATE TABLE orders(orderid varchar(70),customerid varchar(50),orderdate int);
+insert into orders values('3','67',21-7-2000),('6','37',7-4-2001),('7','25',8-7-2002);
+select *from orders;
+CREATE TABLE customers(customerid varchar(70),customername varchar(50),contact int);
+insert into customers values('9','madhav',12345),('45','hari',34567),('36','rahul',34567);
+select *from customers;
+SELECT Orders.OrderID, Customers.CustomerName, Orders.OrderDate
+FROM Orders
+INNER JOIN Customers ON Orders.CustomerID=Customers.CustomerID;
+
+Select a.AccountNo as ACNO,  --selfjoin
+a.Name as [Account Holder Name],
+a.Balance,
+a.RefAcno as [Ref Acno],
+r.Name [Name of Referer] 
+FROM Bank a leftjoin BankTB r
+on a.RefAcno=r.AccountNo
