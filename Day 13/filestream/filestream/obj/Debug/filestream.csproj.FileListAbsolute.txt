@@ -1,0 +1,8 @@
+D:\C#\Day 13\filestream\filestream\bin\Debug\filestream.exe.config
+D:\C#\Day 13\filestream\filestream\bin\Debug\filestream.exe
+D:\C#\Day 13\filestream\filestream\bin\Debug\filestream.pdb
+D:\C#\Day 13\filestream\filestream\obj\Debug\filestream.csproj.AssemblyReference.cache
+D:\C#\Day 13\filestream\filestream\obj\Debug\filestream.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 13\filestream\filestream\obj\Debug\filestream.csproj.CoreCompileInputs.cache
+D:\C#\Day 13\filestream\filestream\obj\Debug\filestream.exe
+D:\C#\Day 13\filestream\filestream\obj\Debug\filestream.pdb

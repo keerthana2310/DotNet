@@ -1,0 +1,8 @@
+D:\C#\Day 13\Anonym\Anonym\bin\Debug\Anonym.exe.config
+D:\C#\Day 13\Anonym\Anonym\bin\Debug\Anonym.exe
+D:\C#\Day 13\Anonym\Anonym\bin\Debug\Anonym.pdb
+D:\C#\Day 13\Anonym\Anonym\obj\Debug\Anonym.csproj.AssemblyReference.cache
+D:\C#\Day 13\Anonym\Anonym\obj\Debug\Anonym.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 13\Anonym\Anonym\obj\Debug\Anonym.csproj.CoreCompileInputs.cache
+D:\C#\Day 13\Anonym\Anonym\obj\Debug\Anonym.exe
+D:\C#\Day 13\Anonym\Anonym\obj\Debug\Anonym.pdb
