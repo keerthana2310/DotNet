@@ -1,0 +1,15 @@
+USE [EMPDB]
+GO
+
+DECLARE	@return_value int,
+		@pla varchar(1)
+
+EXEC	@return_value = [dbo].[sp_student]
+		@studentid = N'71',
+		@pla = @pla OUTPUT
+
+SELECT	@pla as N'@pla'
+
+SELECT	'Return Value' = @return_value
+
+GO

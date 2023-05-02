@@ -1,0 +1,35 @@
+create or ALTER PROCEDURE sp_PrintDate AS
+BEGIN
+ select getdate();
+END;
+exec sp_PrintDate
+
+
+SELECT * FROM Bank;
+
+create or alter procedure showname(@Name varchar(20)) as
+begin 
+select * from Bank ;
+end;
+exec showname 1;
+
+use empdb;
+create or alter procedure showreference(@acno int) as
+begin
+select*from Bank;
+end;
+exec showreference 122167
+
+--create or alter procedure GetSalary(@empid int,@sal money output)
+--as
+--begin
+--select @sal =salary from empMaster where EmpId=@empid;
+--end;
+--exec Getsalary 
+
+create or alter procedure sp_student(@studentid varchar,@pla varchar output)
+as 
+
+begin
+select @pla=place from student where Studentid=@studentid;
+end;

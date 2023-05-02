@@ -1,0 +1,8 @@
+D:\C#\Day 16\Requirement 3\Requirement 2\obj\Debug\Requirement 2.csproj.AssemblyReference.cache
+D:\C#\Day 16\Requirement 3\Requirement 2\obj\Debug\Requirement 2.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 16\Requirement 3\Requirement 2\obj\Debug\Requirement 2.csproj.CoreCompileInputs.cache
+D:\C#\Day 16\Requirement 3\Requirement 2\bin\Debug\Requirement 2.exe.config
+D:\C#\Day 16\Requirement 3\Requirement 2\bin\Debug\Requirement 2.exe
+D:\C#\Day 16\Requirement 3\Requirement 2\bin\Debug\Requirement 2.pdb
+D:\C#\Day 16\Requirement 3\Requirement 2\obj\Debug\Requirement 2.exe
+D:\C#\Day 16\Requirement 3\Requirement 2\obj\Debug\Requirement 2.pdb
