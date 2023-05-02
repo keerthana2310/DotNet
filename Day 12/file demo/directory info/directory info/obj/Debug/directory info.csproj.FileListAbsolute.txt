@@ -1,0 +1,8 @@
+D:\C#\Day 12\file demo\directory info\directory info\bin\Debug\directory info.exe.config
+D:\C#\Day 12\file demo\directory info\directory info\bin\Debug\directory info.exe
+D:\C#\Day 12\file demo\directory info\directory info\bin\Debug\directory info.pdb
+D:\C#\Day 12\file demo\directory info\directory info\obj\Debug\directory info.csproj.AssemblyReference.cache
+D:\C#\Day 12\file demo\directory info\directory info\obj\Debug\directory info.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 12\file demo\directory info\directory info\obj\Debug\directory info.csproj.CoreCompileInputs.cache
+D:\C#\Day 12\file demo\directory info\directory info\obj\Debug\directory info.exe
+D:\C#\Day 12\file demo\directory info\directory info\obj\Debug\directory info.pdb

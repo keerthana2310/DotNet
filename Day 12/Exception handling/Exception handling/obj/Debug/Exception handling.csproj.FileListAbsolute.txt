@@ -1,0 +1,8 @@
+D:\C#\Day 12\Exception handling\Exception handling\bin\Debug\Exception handling.exe.config
+D:\C#\Day 12\Exception handling\Exception handling\bin\Debug\Exception handling.exe
+D:\C#\Day 12\Exception handling\Exception handling\bin\Debug\Exception handling.pdb
+D:\C#\Day 12\Exception handling\Exception handling\obj\Debug\Exception handling.csproj.AssemblyReference.cache
+D:\C#\Day 12\Exception handling\Exception handling\obj\Debug\Exception handling.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 12\Exception handling\Exception handling\obj\Debug\Exception handling.csproj.CoreCompileInputs.cache
+D:\C#\Day 12\Exception handling\Exception handling\obj\Debug\Exception handling.exe
+D:\C#\Day 12\Exception handling\Exception handling\obj\Debug\Exception handling.pdb

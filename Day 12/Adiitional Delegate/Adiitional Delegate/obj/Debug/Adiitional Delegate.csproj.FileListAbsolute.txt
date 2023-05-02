@@ -1,0 +1,8 @@
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\obj\Debug\Adiitional Delegate.csproj.AssemblyReference.cache
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\obj\Debug\Adiitional Delegate.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\obj\Debug\Adiitional Delegate.csproj.CoreCompileInputs.cache
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\bin\Debug\Adiitional Delegate.exe.config
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\bin\Debug\Adiitional Delegate.exe
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\bin\Debug\Adiitional Delegate.pdb
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\obj\Debug\Adiitional Delegate.exe
+D:\C#\Day 12\Adiitional Delegate\Adiitional Delegate\obj\Debug\Adiitional Delegate.pdb
