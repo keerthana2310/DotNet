@@ -1,0 +1,33 @@
+Assemblies
+
+ 
+
+Fundamental units of deployment and versioning.It is also called building block of .Net application. They are executables in the form of exe or dll. It also is a collection of resources that were used while building the application and is responsible for all the logical functioning.Assemblies can also refer to other assemblies and allow them to reuse code and share functionality.
+
+Structure
+
+Assembly manifest-(name,Language,version) Consist information of an assembly.
+CIL(Logic Part)-Represents the .Net program as per microsoft standards.
+Type Information-Consist of information of all types used in assembly.
+Resources-Consist of images that are part of assembly.
+
+
+Types of assemblies:
+
+
+
+a. Private Assemblies: are accessible by a single application. Special mangement ,registration,versioning are not required.They reside within the application folder and are unique by name. They can be directly used by copying and pasting them to the bin folder.
+
+
+
+b. Shared Assemblies: are shared between multiple applications to ensure reusability.Several applications can use same assembly.Reduce the need of disk and memory space.Shared assembly must have a version number and a unique name. They are installed in GAC ,memory used to store assemblies.
+
+
+
+c. Satellite Assemblies: are the assemblies to provide the support for multiple languages based on different cultures. These are kept in different modules based on the different categories available.
+
+Effect
+
+provide a level of abstraction and encapsulation that helps to manage complexity and reduce code duplication.
+C# Language that is commonly used create .NET application and C# compiler produces assemblies as output.
+
