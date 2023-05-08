@@ -1,0 +1,8 @@
+D:\C#\Day 11\car pooling\Requirement 4\bin\Debug\Requirement 4.exe.config
+D:\C#\Day 11\car pooling\Requirement 4\bin\Debug\Requirement 4.exe
+D:\C#\Day 11\car pooling\Requirement 4\bin\Debug\Requirement 4.pdb
+D:\C#\Day 11\car pooling\Requirement 4\obj\Debug\Requirement 4.csproj.AssemblyReference.cache
+D:\C#\Day 11\car pooling\Requirement 4\obj\Debug\Requirement 4.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 11\car pooling\Requirement 4\obj\Debug\Requirement 4.csproj.CoreCompileInputs.cache
+D:\C#\Day 11\car pooling\Requirement 4\obj\Debug\Requirement 4.exe
+D:\C#\Day 11\car pooling\Requirement 4\obj\Debug\Requirement 4.pdb
