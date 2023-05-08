@@ -1,0 +1,8 @@
+D:\C#\Day 22\Linq\Linq\bin\Debug\Linq.exe.config
+D:\C#\Day 22\Linq\Linq\bin\Debug\Linq.exe
+D:\C#\Day 22\Linq\Linq\bin\Debug\Linq.pdb
+D:\C#\Day 22\Linq\Linq\obj\Debug\Linq.csproj.AssemblyReference.cache
+D:\C#\Day 22\Linq\Linq\obj\Debug\Linq.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 22\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+D:\C#\Day 22\Linq\Linq\obj\Debug\Linq.exe
+D:\C#\Day 22\Linq\Linq\obj\Debug\Linq.pdb
