@@ -1,8 +1,0 @@
-D:\C#\Day 11\car pooling\car pooling\bin\Debug\car pooling.exe.config
-D:\C#\Day 11\car pooling\car pooling\bin\Debug\car pooling.exe
-D:\C#\Day 11\car pooling\car pooling\bin\Debug\car pooling.pdb
-D:\C#\Day 11\car pooling\car pooling\obj\Debug\car pooling.csproj.AssemblyReference.cache
-D:\C#\Day 11\car pooling\car pooling\obj\Debug\car pooling.csproj.SuggestedBindingRedirects.cache
-D:\C#\Day 11\car pooling\car pooling\obj\Debug\car pooling.csproj.CoreCompileInputs.cache
-D:\C#\Day 11\car pooling\car pooling\obj\Debug\car pooling.exe
-D:\C#\Day 11\car pooling\car pooling\obj\Debug\car pooling.pdb

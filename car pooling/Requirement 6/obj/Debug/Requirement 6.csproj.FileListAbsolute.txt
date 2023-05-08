@@ -1,3 +1,0 @@
-D:\C#\Day 11\car pooling\Requirement 6\obj\Debug\Requirement 6.csproj.AssemblyReference.cache
-D:\C#\Day 11\car pooling\Requirement 6\obj\Debug\Requirement 6.csproj.SuggestedBindingRedirects.cache
-D:\C#\Day 11\car pooling\Requirement 6\obj\Debug\Requirement 6.csproj.CoreCompileInputs.cache
