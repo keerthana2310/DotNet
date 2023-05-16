@@ -1,0 +1,8 @@
+D:\C#\Day 26\Digit\Digit\bin\Debug\Digit.exe.config
+D:\C#\Day 26\Digit\Digit\bin\Debug\Digit.exe
+D:\C#\Day 26\Digit\Digit\bin\Debug\Digit.pdb
+D:\C#\Day 26\Digit\Digit\obj\Debug\Digit.csproj.AssemblyReference.cache
+D:\C#\Day 26\Digit\Digit\obj\Debug\Digit.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 26\Digit\Digit\obj\Debug\Digit.csproj.CoreCompileInputs.cache
+D:\C#\Day 26\Digit\Digit\obj\Debug\Digit.exe
+D:\C#\Day 26\Digit\Digit\obj\Debug\Digit.pdb

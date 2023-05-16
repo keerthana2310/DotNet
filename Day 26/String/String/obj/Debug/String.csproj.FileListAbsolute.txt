@@ -1,0 +1,8 @@
+D:\C#\Day 26\String\String\bin\Debug\String.exe.config
+D:\C#\Day 26\String\String\bin\Debug\String.exe
+D:\C#\Day 26\String\String\bin\Debug\String.pdb
+D:\C#\Day 26\String\String\obj\Debug\String.csproj.AssemblyReference.cache
+D:\C#\Day 26\String\String\obj\Debug\String.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 26\String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\C#\Day 26\String\String\obj\Debug\String.exe
+D:\C#\Day 26\String\String\obj\Debug\String.pdb
