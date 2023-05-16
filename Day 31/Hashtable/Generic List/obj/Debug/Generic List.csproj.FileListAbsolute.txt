@@ -1,0 +1,8 @@
+D:\C#\Practice\Hashtable\Generic List\bin\Debug\Generic List.exe.config
+D:\C#\Practice\Hashtable\Generic List\bin\Debug\Generic List.exe
+D:\C#\Practice\Hashtable\Generic List\bin\Debug\Generic List.pdb
+D:\C#\Practice\Hashtable\Generic List\obj\Debug\Generic List.csproj.AssemblyReference.cache
+D:\C#\Practice\Hashtable\Generic List\obj\Debug\Generic List.csproj.SuggestedBindingRedirects.cache
+D:\C#\Practice\Hashtable\Generic List\obj\Debug\Generic List.csproj.CoreCompileInputs.cache
+D:\C#\Practice\Hashtable\Generic List\obj\Debug\Generic List.exe
+D:\C#\Practice\Hashtable\Generic List\obj\Debug\Generic List.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "square of a number", "square of a number\square of a number.csproj", "{FE7A4315-9ED5-4DDB-95CB-5B6CA8179834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7A4315-9ED5-4DDB-95CB-5B6CA8179834}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7A4315-9ED5-4DDB-95CB-5B6CA8179834}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7A4315-9ED5-4DDB-95CB-5B6CA8179834}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7A4315-9ED5-4DDB-95CB-5B6CA8179834}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F185E52D-0EE9-4C67-A459-6C3090820D93}
+	EndGlobalSection
+EndGlobal
