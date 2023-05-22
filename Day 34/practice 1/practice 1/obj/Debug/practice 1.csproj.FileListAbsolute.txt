@@ -1,0 +1,8 @@
+D:\C#\Day 34\practice 1\practice 1\bin\Debug\practice 1.exe.config
+D:\C#\Day 34\practice 1\practice 1\bin\Debug\practice 1.exe
+D:\C#\Day 34\practice 1\practice 1\bin\Debug\practice 1.pdb
+D:\C#\Day 34\practice 1\practice 1\obj\Debug\practice 1.csproj.AssemblyReference.cache
+D:\C#\Day 34\practice 1\practice 1\obj\Debug\practice 1.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 34\practice 1\practice 1\obj\Debug\practice 1.csproj.CoreCompileInputs.cache
+D:\C#\Day 34\practice 1\practice 1\obj\Debug\practice 1.exe
+D:\C#\Day 34\practice 1\practice 1\obj\Debug\practice 1.pdb

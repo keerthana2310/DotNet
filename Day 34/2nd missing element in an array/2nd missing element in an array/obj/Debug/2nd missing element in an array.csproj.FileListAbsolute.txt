@@ -1,0 +1,8 @@
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\bin\Debug\2nd missing element in an array.exe.config
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\bin\Debug\2nd missing element in an array.exe
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\bin\Debug\2nd missing element in an array.pdb
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\obj\Debug\2nd missing element in an array.csproj.AssemblyReference.cache
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\obj\Debug\2nd missing element in an array.csproj.SuggestedBindingRedirects.cache
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\obj\Debug\2nd missing element in an array.csproj.CoreCompileInputs.cache
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\obj\Debug\2nd missing element in an array.exe
+D:\C#\Day 34\2nd missing element in an array\2nd missing element in an array\obj\Debug\2nd missing element in an array.pdb
