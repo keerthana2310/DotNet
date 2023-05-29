@@ -1,0 +1,19 @@
+.container{
+    background-color: azure;
+    font-size: large;
+}
+#circle{
+    color:darkred;
+    font-size: 40px;
+}
+
+p{
+    color: aqua;
+}
+h2,h3{
+    color: aquamarine;
+}
+button{
+    padding:20px,40px,60px,20px;
+    margin:20px,20px,30px,100px;
+}
