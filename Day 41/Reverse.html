@@ -1,0 +1,104 @@
+<!-- Write a Java script code to initialize an array of 10 numbers and perform following operations:
+
+ 		a. Reverse an array.
+
+		b. display result array with numbers above 50 otherwise show exception.
+
+ 		c. Even numbers and Odd numbers in two columns of table respectively. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>Reverse an array</h1>
+    <style>
+        table, th, td {
+          border:1px solid black;
+        }
+        </style>
+        <script>
+            function myprblm()
+            {
+
+                var even=[];
+        var odd=[];
+        for(var i = 0; i <= 10; i++)
+        {
+            if(num[i]%2===0)
+            {
+                even.push(num[i]);
+                document.getElementById("even").innerHTML=even.join(",");
+            }
+            else
+            {
+                odd.push(num[i]);
+                document.getElementById("odd").innerHTML=odd.join(",");
+            }
+        }
+
+            }
+        </script>
+</head>
+<body>
+    <p>My Array</p>
+    <p id="demo"></p>
+    <p>Reversed array is</p>
+    <p id="demo1"></p>
+    <p id="demo2"></p>
+    <p id="demo3"></p>
+
+    <script>
+        // function Reverse()
+        const num=[1,2,3,9,4,0,7,8,59,10];
+        document.getElementById("demo").innerHTML=num;
+       
+        num.reverse();
+        document.getElementById("demo1").innerHTML=num;
+        var array=[];
+   
+        for (var i = 0; i <= 10; i++)
+        {
+            
+           try{ 
+            
+             if(num[i]>50)
+             {
+                array.push(num[i]);
+             }
+              else{
+                 throw new Error("numbers above 50 is not found");
+             }
+          
+             document.getElementById("demo2").innerHTML="array elemnets greater than fifty= "+array;
+        
+            }
+            catch(e)
+          {
+        document.getElementById("demo3").innerHTML=e.message;
+        }
+   
+        }
+     
+    </script>
+    <p>
+        
+        <button type="submit" value="Print Table" onclick="myprblm()">
+     
+       </p>
+
+    <table style="width:100% id=value">
+        <tr>
+        <th >Even No</th>
+        <th >Odd No</th>
+        </tr>
+        <tr>
+            <td id="even"></td>
+            <td id="odd"></td>
+        </tr>
+        
+        
+    </table>
+</body>
+</html>

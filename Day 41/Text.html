@@ -1,0 +1,29 @@
+<!-- Create a form having a text box and a button. Assume 0 as Sunday, 1 as Monday....6 as Saturday. Else throw an exception saying 		
+
+"Wrong Input" -->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Week form</title>
+        <script>
+            function checkInput() {
+                var dayInput = document.getElementById("dayInput").value;
+                
+                if (dayInput >= 0 && dayInput <= 6) {
+                    // Valid input, do something with it
+                    alert("Valid input: " + dayInput);
+                } else {
+                    // Invalid input, throw an exception
+                    throw new Error("Wrong Input");
+                }
+            }
+        </script>
+        <body>
+            <form>
+                <label for="dayInput">Enter a day of the week (0-6):</label>
+                <input type="text" id="dayInput" name="dayInput">
+                <button type="button" onclick="checkInput()">Submit</button>
+            </form>
+        </body>
+    </head>
+</html>
