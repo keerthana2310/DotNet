@@ -1,0 +1,11 @@
+.main{
+    padding:10px;
+    font-family:'Times New Roman', Times, serif;
+}
+#button{
+    background-color: black;
+    color: white;
+}
+#output{
+    font-weight:bold;
+}

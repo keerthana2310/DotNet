@@ -1,0 +1,26 @@
+`<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body class="main">
+    <input type="text" id="firstname"><br>
+    <input type="text" id="secondname"><br>
+    <p id="output"></p>
+    <button type="button" id="button" onclick="validate()">click</button>
+
+    <script>
+        function validate(){
+        var fname=document.getElementById("firstname").value;
+        var sname=document.getElementById("secondname").value;
+        var final="Hello";
+        var result=final.concat(" ",fname," ",sname);
+        document.getElementById("output").innerHTML=result;
+        }
+    </script>
+</body>
+</html>
