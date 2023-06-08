@@ -1,0 +1,20 @@
+/* h2{
+    color:pink;
+    background-color: grey;;
+} */
+table,th,td,tr{
+    border:2px solid black;
+    border-collapse:collapse;
+    
+}
+th,td{
+    text-align:center;
+    padding:10px;
+}
+th{
+    background-color: pink;
+    color:black;
+}
+.container{
+    color: aliceblue;
+}
