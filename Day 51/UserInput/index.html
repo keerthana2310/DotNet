@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body >
+    <form id="sign">
+        <div >
+        <label for="name" id="lable1">Name:</label>
+        <input type="text" id="name" >
+        <label for="password" id="lable2">Password:</label>
+        <input type="text" id="password" >
+        
+       <br>
+       <button type="button"id="button" onclick="validate()">Check</button>
+    </div>
+      </form>
+      <script>
+        function validate()
+        {
+            var name=document.getElementById("name").value;
+            var pass=document.getElementById("password").value;
+            if(name.trim()===""){
+            alert("name cannot be empty");
+            }
+            else if(pass.length<6)
+            {
+                alert("password has atleast 6 letters");
+            }
+        }
+      </script>
+</body>
+</html>

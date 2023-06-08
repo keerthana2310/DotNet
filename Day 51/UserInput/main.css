@@ -1,0 +1,40 @@
+#sign{
+    display:flex;
+    width:450px;
+    height: 200px;
+    border:3px solid black;
+    border-radius: 10px;
+    background-color: rgb(255,248,220);
+    margin:auto;
+    margin-top: 100px;
+    padding:18px;
+}
+
+#password,#name,#lable1,#lable2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 15px;
+    margin: 9PX;
+    width:300px;
+
+}
+
+#name,#password{
+
+    margin-top: 3%;
+    width:400px;
+}
+
+#button{
+    background-color: rgb(0,0,255);
+    color: rgb(255,255,255);
+    width:90px;
+    margin:auto;
+    padding:8px;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 190px;
+    padding-top:1px;
+}
