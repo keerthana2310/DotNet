@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body id="bod">
+<div id="main">
+    <p id="para1">This is a problem where we will perform how to switch to dark mode in a Website using Html,Css,Javascript</p>
+    <button id="btn" onclick="swtch()">Switch to Dark Mode</button>
+
+</div>
+
+    <script>
+         var ans=true;
+        function swtch()
+        {
+        
+         if(ans){
+            document.getElementById("bod").style.backgroundColor='black';
+            document.getElementById("para1").style.backgroundColor='white';
+            document.getElementById("para1").style.color='black';
+            document.getElementById("btn").style.backgroundColor='#dcdcdc';
+            document.getElementById("btn").style.color='black';
+            document.getElementById("btn").innerHTML='Switch to light mode';
+            ans = false;
+         }else if(ans == false){
+            document.getElementById("para1").style.backgroundColor='black';
+            document.getElementById("para1").style.color='white';
+            document.getElementById("btn").style.backgroundColor='rgb(47,79,79)';
+            document.getElementById("btn").style.color='white';
+            document.getElementById("bod").style.backgroundColor='white';
+            document.getElementById("btn").innerHTML='Switch to dark mode';
+            ans = true;
+
+         }
+        }
+    </script>
+</body>
+</html>
